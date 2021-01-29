@@ -31,4 +31,6 @@ OpenLANE is an automated RTL to GDSII flow based on the OpenROAD, Yosys, Magic, 
 
 <!-- Day 2 Chip Floorplanning and Standard Cells-->
 ##  Day 2 Chip Floorplanning and Standard Cells
+![equation] Aspect ratio = width/height
+
 
